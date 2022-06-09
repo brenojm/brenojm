@@ -2,10 +2,6 @@
 
  - Cursando a Residência de software do Serratec para Full-Stack Developer.
  - Estudando Java✓, HTML✓, CSS✓, JavaScript✓, React..., React Native.
-
- <div align="left">
-   <img align="center"  alt="gif-me" height="180" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47afmyb9zs91rj08co2mhqyggsb52pjv4q6azb13ck&rid=giphy.gif&ct=g">
- </div>
  
 <div align="center">
   <a href="https://github.com/brenojm">
