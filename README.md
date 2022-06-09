@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Breno Magrani 👋
 
  - Cursando a Residência de software do Serratec para Full-Stack Developer.
- - Estudando Java✓, HTML✓, CSS✓, JavaScript✓, React..., React Native.
+ - Estudando Java✓, PostgreSQL✓, HTML✓, CSS✓, JavaScript✓, React..., React Native.
  
 <div align="center">
   <a href="https://github.com/brenojm">
