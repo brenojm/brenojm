@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently on **Residência de Software from Serratec for Full-Stack Developer**
 
-- 🌱 I’m currently learning **React Native, TypeScript & Python **
+- 🌱 I’m currently learning **React Native, TypeScript & Python**
 
 - 💬 Ask me about **Java**
 
