@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently on **Residência de Software from Serratec for Full-Stack Developer**
 
-- 🌱 I’m currently learning **React Native & Python**
+- 🌱 I’m currently learning **React Native, TypeScript & Python **
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **breno.jm25@gmail.com**
+- 📫 Reach me at **breno.jm25@gmail.com**
 
 - ⚡ Fun fact **I'm an aviation and Formula 1 fan**
 
