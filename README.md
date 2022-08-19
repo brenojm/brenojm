@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Breno Magrani</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate full-stack developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently on **Residência de Software from Serratec for Full-Stack Developer**
+- 🔭 I’m currently studying **Information Technology at FAETERJ**
 
-- 🌱 I’m currently learning **React Native, TypeScript & Python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java**
 
