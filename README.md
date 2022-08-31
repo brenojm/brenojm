@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=brenojm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brenojm" /></p>
 
-<p><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenojm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brenojm" /></p>
+
