@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying **Information Technology at FAETERJ**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# & Python**
 
 - 💬 Ask me about **Java**
 
