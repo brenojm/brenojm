@@ -16,10 +16,10 @@
 - 💬 Ask me about **C# & Java**
 
 - 📫 Reach me at **breno.jm25@gmail.com**
-Access my Portfolio at 
+
 - ⚡ Fun fact **I'm an aviation and Formula 1 fan**
 
-- 📫 Access my Portfolio at <a target="blank" rel="noopener noreferrer" href="https://brenomagrani.tech/">brenomagrani.tech</a>
+- 🌐 Access my Portfolio at <a href="https://brenomagrani.tech/" target="blank">brenomagrani.tech</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
