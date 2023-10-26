@@ -19,7 +19,7 @@
 Access my Portfolio at 
 - ⚡ Fun fact **I'm an aviation and Formula 1 fan**
 
-- 📫 Access my Portfolio at <a target="_blank" href="https://brenomagrani.tech/">brenomagrani.tech</a>
+- 📫 Access my Portfolio at <a target="blank" rel="noopener noreferrer" href="https://brenomagrani.tech/">brenomagrani.tech</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
