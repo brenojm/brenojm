@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Breno Magrani</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h1 align="center">Hello World! I'm Breno Magrani</h1>
+<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 
@@ -11,13 +11,15 @@
 
 - 🔭 I’m currently studying **Information Technology at FAETERJ**
 
-- 🌱 I’m currently learning **C# & Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **C# & Java**
 
 - 📫 Reach me at **breno.jm25@gmail.com**
-
+Access my Portfolio at 
 - ⚡ Fun fact **I'm an aviation and Formula 1 fan**
+
+- 📫 Access my Portfolio at <a target="__blank" href="https://brenomagrani.tech/">brenomagrani.tech</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
