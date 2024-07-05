@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hello World! I'm Breno Magrani</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C# & Java**
+- 💬 Ask me about **C#, Java & JavaScript**
 
 - 📫 Reach me at **breno.jm25@gmail.com**
 
